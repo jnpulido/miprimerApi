@@ -1,0 +1,16 @@
+[
+    { 
+        "idProducto": 1,
+        "nombreProducto": "pera",
+        "clasificacionProducto": "primera",
+        "precioProducto": 20000,
+        "cantidadDipsonible": 200
+    },
+    { 
+        "idProducto": 2,
+        "nombreProducto": "manzana",
+        "clasificacionProducto": "primera",
+        "precioProducto": 15000,
+        "cantidadDipsonible": 100
+    }
+]
